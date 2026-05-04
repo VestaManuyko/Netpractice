@@ -1,2 +1,8 @@
+*Currently in progress*
+
 # Netpractice
 Browser-based training that provides practical experience in network administration
+
+## Resources
+https://www.youtube.com/watch?v=3b_TAYtzuho
+https://www.youtube.com/watch?v=a55ecIWIkVc

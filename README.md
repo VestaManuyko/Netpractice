@@ -3,32 +3,8 @@
 # Netpractice
 
 ## Description
-Browser-based training that provides practical experience in network administration.
-
-## Instructions
-
-Clone the repository and launch the training interface:
-
-```
-git clone git@github.com:VestaManuyko/Netpractice.git netpractice
-cd netpractice/net_practice.1.9/net_practice
-chmod +x run.sh
-./run.sh
-```
-For each level, a non-functioning network diagram is displayed.
-
-At the top of your window, you will see one or more objectives
-that you must achieve by adjusting the available configuration so that the network functions properly. \
-There are two buttons you can use: \
-• [Check again] to verify whether your configuration is correct. \
-• [Get my config] to download your configuration whenever you need to (Needed when submitting the assignment).
-
-At the bottom of the page, you will see logs. They can help you understand why your
-configuration is incorrect, for example, if a gateway is missing or an IP address is
-invalid.
-
-When you have successfully completed a level, a new button will appear. Click this
-button to proceed to the next level.
+Browser-based training that provides practical experience in network administration. \
+42 school provides a training interface that gives you a broken small-scale network which you have to fix by using such concepts as subnet masks, default gateaways, IP addressing etc. After you pass each level you can install your config with all the fixes, which I did and that is what you can find in this repository. 
 
 ## Resources
 Useful links used while preparing for the projects: \
